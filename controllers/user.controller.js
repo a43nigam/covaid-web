@@ -122,7 +122,7 @@ exports.register = function (req, res) {
           spreadsheets.addUserToSpreadsheet(
             finalUser,
             userID,
-            "1l2kVGLjnk-XDywbhqCut8xkGjaGccwK8netaP3cyJR0"
+            "PITTSBURGH_ID"
           );
         }
 
